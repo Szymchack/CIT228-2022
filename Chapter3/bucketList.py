@@ -1,8 +1,8 @@
-places=["Grand Canyon", "Cairo", "Machu Picchu", "Jerusalem", "Argentina", "Ireland"]
+places=["Grand Canyon", "Chichen Itza", "Machu Picchu", "Jerusalem", "Teotihuacan", "Ireland"]
 print(f"My Bucket List: {places}")
 
 places.append('Scotland')
-places.insert(0, 'Alaska')
+places.insert(0, 'Oak Island')
 print(f"My list after additions: {places}")
 
 del places[0]
